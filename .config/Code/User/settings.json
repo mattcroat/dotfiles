@@ -1,0 +1,85 @@
+{
+  // Interface
+  "window.menuBarVisibility": "toggle",
+  "workbench.startupEditor": "none",
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "workbench.editor.enablePreview": false,
+  "editor.cursorBlinking": "solid",
+  "workbench.activityBar.visible": false,
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Material Theme Darker",
+  "workbench.iconTheme": "material-icon-theme",
+  // Font
+  "editor.fontFamily": "Operator Mono Book, Fira Code, Cascadia Code",
+  // "editor.fontWeight": "500",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  // Terminal
+  "terminal.integrated.fontFamily": "Fira Code",
+  "terminal.integrated.fontSize": 16,
+  // Emmet
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "javascript": "javascriptreact"
+  },
+  // Prettier (doesn't affect Prettier + ESLint)
+  "prettier.printWidth": 80,
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "es5",
+  "prettier.useTabs": false,
+  // Prettier and ESLint setup
+  // "editor.formatOnSave": true,
+  // "eslint.autoFixOnSave": true,
+  // "prettier.disableLanguages": ["javascript", "javascriptreact"],
+  // "[javascript]": {
+  //   "editor.formatOnSave": false
+  // },
+  // "[javascriptreact]": {
+  //   "editor.formatOnSave": false
+  // },
+  // ESLint
+  // "eslint.alwaysShowStatus": true,
+  // "eslint.validate": [
+  //   "javascript",
+  //   "javascriptreact",
+  //   {
+  //     "language": "typescript",
+  //     "autoFix": true
+  //   },
+  //   {
+  //     "language": "typescriptreact",
+  //     "autoFix": true
+  //   }
+  // ],
+  // Turbo Console Log
+  "turboConsoleLog.logMessagePrefix": "Log",
+  "turboConsoleLog.quote": "`",
+  // Live Sass Compiler
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/css"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  // Save
+  // "files.autoSave": "onFocusChange",
+  // Live Server
+  "liveServer.settings.NoBrowser": true,
+  // Default formatter
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // Polacode
+  "polacode.target": "snippet",
+  // Linux multi-cursor
+  "editor.multiCursorModifier": "ctrlCmd",
+  // Color Higlight
+  "color-highlight.markerType": "dot-before",
+  // Telemetry
+  "telemetry.enableTelemetry": false,
+  // Mirror cursor
+  "html.mirrorCursorOnMatchingTag": false
+}

@@ -1,0 +1,14 @@
+{
+	"caret_style": "solid",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"font_face": "Operator Mono",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"material_theme_accent_graphite": true,
+	"tab_size": 2,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

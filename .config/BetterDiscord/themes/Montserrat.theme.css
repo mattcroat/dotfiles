@@ -1,0 +1,16 @@
+//META{"name":"Montserrat Nocturnal","description":"Transparent dark theme based on the Nocturnal Theme","author":"Matt Croat","version":"1"}*//
+
+@import url("https://codedotspectra.github.io/themes/nocturnal/importCSS/core.css");
+@import url(https://codedotspectra.github.io/themes/mini-themes/customFont.css);
+@import url('https://codedotspectra.github.io/themes/mini-themes/statusRounded.css');
+/* @import url('https://fonts.googleapis.com/css?family=Montserrat'); */
+
+:root {
+--customFont: 'Cascadia Code';
+--backgroundDark: hsl(0, 0%, 14%);
+--backgroundDarker: hsl(0, 0%, 12%);
+}
+
+body {
+    opacity: .9;
+}

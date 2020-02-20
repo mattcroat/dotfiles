@@ -1,0 +1,13 @@
+[Common]
+OutlineCloseButton=false
+OutlineCloseButton=false
+ShadowStrength=89
+ShadowStrength=89
+
+[Style]
+AnimationsDuration=50
+MenuOpacity=60
+
+[Windeco]
+DrawBackgroundGradient=false
+DrawBackgroundGradient=false

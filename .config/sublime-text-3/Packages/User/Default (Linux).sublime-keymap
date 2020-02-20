@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+b"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+'"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+'"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["ctrl+shift+alt+down"], "command": "duplicate_line" },
+]

@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Emmet",
+		"Hayaku - tools for writing CSS faster",
+		"JavaScript Completions",
+		"JsPrettier",
+		"Material Theme",
+		"Naomi",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint_d",
+		"TypeScript"
+	]
+}

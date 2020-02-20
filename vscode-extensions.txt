@@ -1,0 +1,8 @@
+dbaeumer.vscode-eslint
+dsznajder.es7-react-js-snippets
+Equinusocio.vsc-material-theme
+esbenp.prettier-vscode
+jpoissonnier.vscode-styled-components
+PKief.material-icon-theme
+Prisma.vscode-graphql
+xabikos.JavaScriptSnippets
